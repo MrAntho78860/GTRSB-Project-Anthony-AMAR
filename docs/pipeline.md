@@ -21,3 +21,7 @@ pour le dataset GTSRB.
 
 - Code: `src/data_preprocessing.py`
 - Donnees: `data/GTSRB/Training`
+
+Note: le dossier `data/` peut ne pas apparaitre sur GitHub s'il est vide (Git ne
+versionne pas les repertoires vides). Voir `docs/README.md` pour les instructions
+de mise en place du dataset.
